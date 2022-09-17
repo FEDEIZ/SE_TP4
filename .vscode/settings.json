@@ -1,0 +1,13 @@
+{
+    "emmet.preferences": {
+    
+    },
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/fede/Documents/EITI_SistemasEmbebidos/Proyectos/muju"
+    },
+    "files.associations": {
+        "*.excalidraw": "json",
+        "*.excalidrawlib": "json",
+        "chip.h": "c"
+    }
+}
